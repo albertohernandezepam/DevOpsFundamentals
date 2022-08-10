@@ -1,3 +1,1 @@
 # DevOpsFundamentals
-
-Texto de prueba
